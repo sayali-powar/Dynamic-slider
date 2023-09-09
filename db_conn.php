@@ -1,12 +1,17 @@
 <?php
-$hostName="localhost";
-$userName="root";
-$password=" ";
-$databaseName="Employee1";
-$conn=new mysqli($hostName,$userName,$password,$databaseName);
-if($conn-> connect_error){
-	die("connection failed:". $conn-> connect_error);
-}
-else{
-    die("connection successful");
+
+$sname= "localhost";
+
+$unmae= "root";
+
+$password = "";
+
+$db_name = "job_db";
+
+$conn = mysqli_connect($Email Address, $Password, $job_db);
+
+if (!$conn) {
+
+    echo "Connection failed!";
+
 }

@@ -10,6 +10,7 @@ step2-After registration you would be able to login.
 
 step3- If you are register already then directly you can login and get redirected to index.html page.
 
+
 2.Index.html file-
 step1-After successful login in Job portal you will get redirected to home page of Job portal.
 

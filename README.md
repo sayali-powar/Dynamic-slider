@@ -9,6 +9,8 @@ step1- If you are new here you have to register first.Click on register now butt
 step2-After registration you would be able to login.
 
 step3- If you are register already then directly you can login and get redirected to index.html page.
+![image](https://github.com/sayali-powar/Dynamic-slider/assets/144382181/e5be6bf7-da01-4adc-82e9-0c8e44c37419)
+
 
 ![image](https://github.com/sayali-powar/Dynamic-slider/assets/144382181/5931e871-47bf-4fc9-843c-3df435e5e0aa)
 

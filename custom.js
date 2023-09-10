@@ -1,4 +1,4 @@
-// to get current year
+
 function getYear() {
     var currentDate = new Date();
     var currentYear = currentDate.getFullYear();
@@ -7,7 +7,7 @@ function getYear() {
 
 getYear();
 
-//service section owl carousel
+
 $(".service_owl-carousel").owlCarousel({
     autoplay: true,
     center: true,
@@ -27,7 +27,7 @@ $(".service_owl-carousel").owlCarousel({
     }
 });
 
-// owl carousel slider js
+
 var owl = $('.portfolio_carousel').owlCarousel({
     loop: true,
     margin: 15,
@@ -56,7 +56,7 @@ var owl = $('.portfolio_carousel').owlCarousel({
 })
 
 
-// owl.owlcarousel2_filter
+
 
 $('.owl-filter-bar').on('click', '.item', function (e) {
     var $items = $('.owl-filter-bar a')
@@ -68,7 +68,7 @@ $('.owl-filter-bar').on('click', '.item', function (e) {
 
     e.preventDefault();
 })
-/** google_map js **/
+
 function myMap() {
     var mapProp = {
         center: new google.maps.LatLng(40.712775, -74.005973),
@@ -77,7 +77,7 @@ function myMap() {
     var map = new google.maps.Map(document.getElementById("googleMap"), mapProp);
 }
 
-// nice select
+
 $(document).ready(function () {
     $('select').niceSelect();
 });

@@ -27,11 +27,12 @@ output:
 
 3.About us.html-
 
-step1-After clicking on about us form you will be able to see about information of job portaabouttep2-There are two options available one is home and another one is contact.
+step1-After clicking on about us form you will be able to see about information of job portal. 
+step2-There are two options available one is home and another one is contact.
 
-step3-If you click on home page ypu will go back to home page.
+step3-If you click on home page you will go back to home page.
 
-step4-if you click on contact us page you will be able redirected to contact page.
+step4-if you click on contact us page you will be able to redirect to contact page.
 output-
 ![image](https://github.com/sayali-powar/Dynamic-slider/assets/144382181/9468e278-0e08-478a-ae8f-765e35cf4b27)
 ![image](https://github.com/sayali-powar/Dynamic-slider/assets/144382181/c14244b7-f1a2-4139-b451-7b74f23f8069)
@@ -60,7 +61,7 @@ step4-Then we have to write the database name.
 
 step5-$conn = mysqli_connect($Email Address, $Password, $job_db);// This is the syntax of forming the connection
 
-step6-If the connection is established successfully you get message Mysqli connected successsfully.
+step6-If the connection is established successfully you will get the message Mysqli connected successsfully.
 
 step7- If you get error while establishing a connection you will get error message.
 output-

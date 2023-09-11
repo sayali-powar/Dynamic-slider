@@ -14,7 +14,7 @@ step3- If you are register already then directly you can login and get redirecte
 
 ![image](https://github.com/sayali-powar/Dynamic-slider/assets/144382181/5931e871-47bf-4fc9-843c-3df435e5e0aa)
 
-2.Index.html file-
+2.Index form-
 step1-After successful login in Job portal you will get redirected to home page of Job portal.
 
 step2-In home page there are two option available they are about us and contact.
@@ -25,7 +25,7 @@ step4- If you click on contact us you will get redirected to contact us page.
 output:
 ![image](https://github.com/sayali-powar/Dynamic-slider/assets/144382181/c6267562-baf6-426e-94e0-12915daae367)
 
-3.About us.html-
+3.About us form-
 
 step1-After clicking on about us form you will be able to see about information of job portal. 
 step2-There are two options available one is home and another one is contact.
@@ -39,7 +39,7 @@ output-
 
 
 
-4.contact.html
+4.contact.form
 
 step1- If you want to contact the job portal and ask them any question you can contact them.
 

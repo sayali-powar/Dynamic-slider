@@ -27,9 +27,7 @@ output:
 
 3.About us.html-
 
-step1-After clicking on abiut us form you will be able to see about information of job portal.
-
-step2-There are two options available one is home and another one is contact.
+step1-After clicking on about us form you will be able to see about information of job portaabouttep2-There are two options available one is home and another one is contact.
 
 step3-If you click on home page ypu will go back to home page.
 

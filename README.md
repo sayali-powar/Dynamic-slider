@@ -1,3 +1,15 @@
+Following are the steps to run Assignment on Visual Studio Code. 
+Step1- Open Visual studio Code
+Step2- Now you have to download the extension.Just type Github and download github Pull Project extension. 
+Step 3- After installation of extension click on setting icon. 
+Step 4- In setting icon click on Command Pilate. 
+Step 5- In search bar type github clone and copy paste the repository link. 
+step 6- After pasting link press enter. 
+step 7- Create a new folder where the assignment get store. 
+step 8- Then project will start cloning. 
+step 9- After cloning you will see all the files of the assignment like html CSS etc. 
+Step 10- Just select the file and run the assignment. 
+
 Assignment Title- Dynamic Slider with login protected updated form.
 
 Platform- Google chrome- you can run on google chrome,firefox and internet explorer. and you can write code on notepad,notepad++,visual studio code and brackets.

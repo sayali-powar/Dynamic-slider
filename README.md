@@ -2,7 +2,7 @@ Following are the steps to run Assignment on Visual Studio Code.
 Step1- Open Visual studio Code
 Step2- Now you have to download the extension.Just type Github and download github Pull Project extension. 
 Step 3- After installation of extension click on setting icon. 
-Step 4- In setting icon click on Command Pilate. 
+Step 4- In setting icon click on Command Palette. 
 Step 5- In search bar type github clone and copy paste the repository link. 
 step 6- After pasting link press enter. 
 step 7- Create a new folder where the assignment get store. 
@@ -14,17 +14,18 @@ Assignment Title- Dynamic Slider with login protected updated form.
 
 Platform- Google chrome- you can run on google chrome,firefox and internet explorer. and you can write code on notepad,notepad++,visual studio code and brackets.
 
-1.Login and registration form-
+1.Login  form-
 
 step1- If you are new here you have to register first.Click on register now button and register.
 
 step2-After registration you would be able to login.
 
 step3- If you are register already then directly you can login and get redirected to index.html page.
-![image](https://github.com/sayali-powar/Dynamic-slider/assets/144382181/e5be6bf7-da01-4adc-82e9-0c8e44c37419)
+![image](https://github.com/sayali-powar/Dynamic-slider/assets/144382181/62d78a7e-6fee-463f-900f-65593d93787f)
 
 
-![image](https://github.com/sayali-powar/Dynamic-slider/assets/144382181/5931e871-47bf-4fc9-843c-3df435e5e0aa)
+
+![image](https://github.com/sayali-powar/Dynamic-slider/assets/144382181/274fb333-2905-416a-acf8-0e49a2e0fa0e)
 
 2.Index form-
 step1-After successful login in Job portal you will get redirected to home page of Job portal.
@@ -61,7 +62,7 @@ step2-Just you have to fill your information and send the message.
 
 
 
-5.db_conn.php
+5.sql file.php
 
 step1- This form is designed to form a database connection.
 
@@ -77,5 +78,5 @@ step6-If the connection is established successfully you will get the message Mys
 
 step7- If you get error while establishing a connection you will get error message.
 output-
-![image](https://github.com/sayali-powar/Dynamic-slider/assets/144382181/11c1bf19-9fb3-4792-8e45-4a585e5b6105)
+![image](https://github.com/sayali-powar/Dynamic-slider/assets/144382181/8e95d65e-aa79-418a-a8c0-7a2946265cfc)
 
